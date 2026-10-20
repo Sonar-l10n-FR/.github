@@ -58,9 +58,9 @@ Chaque version du pack suit le catalogue d'une version précise de SonarQube™.
 
 ## D'où vient ce dépôt
 
-Le pack existe depuis 2011. Il a d'abord été hébergé par SonarSource, puis maintenu par la communauté, en dernier lieu sur [jycr/sonar-l10n-fr](https://github.com/jycr/sonar-l10n-fr), dont la dernière modification date de juin 2023. La mise à jour y a d'abord été proposée, dans [#47](https://github.com/jycr/sonar-l10n-fr/issues/47) et [#48](https://github.com/jycr/sonar-l10n-fr/pull/48), sans réponse à ce jour.
+Le pack existe depuis 2011. Il a d'abord été hébergé par SonarSource, puis maintenu par la communauté, en dernier lieu par jycr sur son compte personnel. En octobre 2026, jycr a passé la main et transféré le dépôt d'origine dans cette organisation, avec son historique, ses issues et ses releases ([#47](https://github.com/Sonar-l10n-FR/sonar-l10n-fr/issues/47)). Les anciens liens `jycr/sonar-l10n-fr` redirigent ici.
 
-Il vit désormais dans une organisation plutôt que dans un compte personnel : la maintenance peut changer de mains sans que le projet change d'adresse.
+Le pack vit désormais dans une organisation plutôt que dans un compte personnel : la maintenance peut changer de mains sans que le projet change d'adresse.
 
 ---
 
